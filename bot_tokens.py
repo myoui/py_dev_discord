@@ -1,5 +1,0 @@
-consumer_key="J3a3RtuKonuzdflSQhOFUWTHS"
-consumer_secret="f6uMmdUWYRhjjCvp4yWDYpm1r94W1ulQnEsNFITRIlaAGcQiid"
-access_token_key="74108343-fFp1AjhK5wDR37dYYy6JXwX9gTAZ1agAj6WQRjEw8"
-access_token_secret="xZfqYGY4DomhUVP4Z0aIsw9MsPd0ZAMXrqnoEF1JFOmmS"
-discord_token="NzI5MDY3MDYxNDA1Mjg2NDgx.XwDjHA.NGJQeq_Xh4OBNECTJMd0oWgnhvk"
